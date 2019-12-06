@@ -1,5 +1,8 @@
 # Bungalow Challenge!
 
+## Model Info
+Property Listings are represented by a "Property" model<br/>
+
 Swagger Docs for API. Use Swagger to execute endpoint operations!<br/>
 http://danielraymie.pythonanywhere.com/swagger<br/>
 
